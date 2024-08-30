@@ -8,14 +8,14 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 --!>
-- 🌱 I’m currently learning at UCI - Donald Bren School
-- 👯 I’m looking to collaborate on any project for entry level.
+- 🌱 I’m currently learning at UCI - Donald Bren School  
+- 👯 I’m looking to collaborate on any project for entry level.  
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 --!>
-- 📫 How to reach me: my email in my profile
-- 😄 Pronouns: she/her
+- 📫 How to reach me: my email in my profile  
+- 😄 Pronouns: she/her  
 <!--
 - ⚡ Fun fact: ...
 --!>
