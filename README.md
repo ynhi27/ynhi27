@@ -1,7 +1,7 @@
 # About me 👋
 
 
-**ynhi27/ynhi27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ynhi27/ynhi27** is a ✨ _special_ ✨ repository  because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
