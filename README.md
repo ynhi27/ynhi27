@@ -1,16 +1,14 @@
 # Y NHI TRAN 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+## |
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+### :fire: My Data:
+
+
+[![GitHub Streak](https://github-readme-streak-stats-seven-lyart.vercel.app?user=ynhi27&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--
+[https://streak-stats.demolab.com/demo/](https://github-readme-streak-stats-seven-lyart.vercel.app/demo/)
+-->
 
