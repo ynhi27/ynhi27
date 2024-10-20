@@ -24,5 +24,5 @@ https://www.sitepoint.com/github-profile-readme/
 https://github-readme-streak-stats-seven-lyart.vercel.app/demo/
 -->
 
-*Find me on [LinkedIn](https://www.linkedin.com/in/y-nhi-tran-a3991373/)*
+*Find me on [LinkedIn](https://www.linkedin.com/in/nhitrany/)*
 
